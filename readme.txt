@@ -22,3 +22,5 @@ test
 
 新建dev分支
 
+Git  is a free software 
+
